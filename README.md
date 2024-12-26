@@ -19,7 +19,7 @@ bash <(curl -s https://data.zamzasalim.xyz/file/uploads/initverse2.sh)
 ## Paste PrivateKeys
 
 ```
-cd initverse2
+cd initverse-auto-swap
 ```
 
 ```
